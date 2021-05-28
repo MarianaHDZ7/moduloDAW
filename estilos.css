@@ -1,0 +1,40 @@
+h1{
+	background-color: #bd9576; 
+	color: #83cacd; 
+	font-family: "Brusher", "Arial"; 
+	text-align: center;
+}
+
+.imagen{
+	width: 170px;
+	height: 270px;
+}
+
+a{
+	font-style: italic;
+	font-family: "Book Antiqua", "Arial";
+	font-size: 17px; 
+}
+
+body {
+	background-color: #f0c5a5; 
+}
+
+
+p{
+	font-family:  "Avocado Creamy", "Arial"; 
+	font-size: 30px;
+	text-align: center;
+	color: #0f9ea8; 
+}
+
+input{
+	text-align: center;
+	color: #0f9ea8;
+	background-color: #83cacd;
+	border-color: white; 
+}
+
+#miForm{
+	text-align: center; 
+}
